@@ -42,5 +42,12 @@ Download Kode PHP pada link berikut ini TP MVC.
   - lalu mengklik button ```submit``` 
 
 ## Dokumentasi
+- list members 
+- add form members
+- update form members
+- list grup
+- add form grup
+- update form grup
+
 https://github.com/amizulfa/TP4DPBO2023C1/assets/100895165/0c8c0c1d-fe2d-47b0-a13a-bd4e5ab5e283
 
